@@ -35,7 +35,7 @@ This assignment builds upon the work done in the previous unit and focuses on en
      - User_Sales to SalesRole
      - User_HR to HRRole
      - User_CEO to CEORole
-   - Save the SQL script as `IT481_Unit3_YourName.SQL`.
+
 
 5. Add new methods to the business layer:
    - Create methods to return the number of employees and orders in a similar fashion as customers.
@@ -73,6 +73,5 @@ This assignment builds upon the work done in the previous unit and focuses on en
 ![HR_Customers](https://github.com/SyedNoorAliDev/DatabaseAssignment03/assets/96229280/0d753c92-ce74-4979-badc-fc93dd0e38ea)
 ![CEO_Orders](https://github.com/SyedNoorAliDev/DatabaseAssignment03/assets/96229280/b719f060-97f5-429d-be86-943d69d77ca7)
 ![CEO_Emps](https://github.com/SyedNoorAliDev/DatabaseAssignment03/assets/96229280/861038f8-b6ab-443b-bbae-a429b9862fd8)
-
 ![CEO_Cust](https://github.com/SyedNoorAliDev/DatabaseAssignment03/assets/96229280/47082673-53ff-4e3f-a991-2153da255e6c)
 
