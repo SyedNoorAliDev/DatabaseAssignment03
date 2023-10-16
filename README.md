@@ -3,24 +3,6 @@
 
 # Assignment: IT481 - Database Security and Optimization
 
-![Database Security and Optimization](your_image_url_here)
-
-## Table of Contents
-
-- [Unit Outcomes](#unit-outcomes)
-- [Purpose](#purpose)
-- [Assignment Instructions](#assignment-instructions)
-- [Reminders](#reminders)
-- [Assignment Requirements](#assignment-requirements)
-- [Getting Started](#getting-started)
-- [File Structure](#file-structure)
-- [Database Setup](#database-setup)
-- [Application Overview](#application-overview)
-- [User Credentials](#user-credentials)
-- [Testing](#testing)
-- [Contributors](#contributors)
-- [License](#license)
-
 ## Unit Outcomes
 
 - Examine Application Security concepts.
@@ -79,23 +61,18 @@ This assignment builds upon the work done in the previous unit and focuses on en
    - User_Sales can only access Customers and Orders.
    - Implement error handling for incorrect login data.
 
+# This Code fulfills all the requirements mentioned above!
+# Feel free to adapt this template to your needs, adding specific details, and customizing it for your assignment. Good luck with your IT481 - Database Security and Optimization project!
+# Screenshots have been added as well to show the access of each user:
 
-## Database Setup
+![Sales_Orders](https://github.com/SyedNoorAliDev/DatabaseAssignment03/assets/96229280/afa7d910-949c-4242-9a6c-dbab9445fd4b)
+![Sales_Employees](https://github.com/SyedNoorAliDev/DatabaseAssignment03/assets/96229280/1b114844-d559-45ec-8cc0-4b68ce9f16e7)
+![Sales_Cust](https://github.com/SyedNoorAliDev/DatabaseAssignment03/assets/96229280/e9ed7435-8d9f-4481-a10f-32bd8d9c1cdd)
+![HR_Orders](https://github.com/SyedNoorAliDev/DatabaseAssignment03/assets/96229280/f1723365-1c6f-47b4-9dd0-22c77bbf00a0)
+![HR_Emps](https://github.com/SyedNoorAliDev/DatabaseAssignment03/assets/96229280/cfc29e08-6a1f-442b-b8b2-74987022aa73)
+![HR_Customers](https://github.com/SyedNoorAliDev/DatabaseAssignment03/assets/96229280/0d753c92-ce74-4979-badc-fc93dd0e38ea)
+![CEO_Orders](https://github.com/SyedNoorAliDev/DatabaseAssignment03/assets/96229280/b719f060-97f5-429d-be86-943d69d77ca7)
+![CEO_Emps](https://github.com/SyedNoorAliDev/DatabaseAssignment03/assets/96229280/861038f8-b6ab-443b-bbae-a429b9862fd8)
 
-1. Run the SQL script `IT481_Unit3_YourName.SQL` to prepare the database with security roles, users, and permissions.
+![CEO_Cust](https://github.com/SyedNoorAliDev/DatabaseAssignment03/assets/96229280/47082673-53ff-4e3f-a991-2153da255e6c)
 
-## Application Overview
-
-[Provide a brief overview of the application, its functionality, and its architecture.]
-
-## User Credentials
-
-[Explain how to input user credentials, the GUI interface, and how error handling is implemented.]
-
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-Feel free to adapt this template to your needs, adding specific details, and customizing it for your assignment. Good luck with your IT481 - Database Security and Optimization project!
